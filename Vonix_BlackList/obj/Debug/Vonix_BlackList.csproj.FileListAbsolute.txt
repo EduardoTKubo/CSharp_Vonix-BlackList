@@ -1,0 +1,10 @@
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\bin\Debug\Vonix_BlackList.exe.config
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\bin\Debug\Vonix_BlackList.exe
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\bin\Debug\Vonix_BlackList.pdb
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\obj\Debug\Vonix_BlackList.csprojAssemblyReference.cache
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\obj\Debug\Vonix_BlackList.Properties.Resources.resources
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\obj\Debug\Vonix_BlackList.csproj.GenerateResource.cache
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\obj\Debug\Vonix_BlackList.csproj.CoreCompileInputs.cache
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\obj\Debug\Vonix_BlackList.exe
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\obj\Debug\Vonix_BlackList.pdb
+C:\Ekubo\Sistemas C#\Vonix_BlackList\Vonix_BlackList\obj\Debug\Vonix_BlackList.Form1.resources
